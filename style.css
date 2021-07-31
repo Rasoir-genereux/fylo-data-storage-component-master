@@ -166,6 +166,7 @@ body{
     width: 200px;
     height: auto;
     flex-direction: column;
+    margin-right:10%;
   }
 
 .right{
