@@ -163,7 +163,7 @@ body{
 
   main{
     margin: 0 auto;
-    width: 200px;
+    width: auto;
     height: auto;
     flex-direction: column;
   }
