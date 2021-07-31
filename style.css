@@ -149,28 +149,6 @@ footer {
 footer a { color: var(--Gradient1); }
 
 
-@media all and (max-width:850px){
-
-  main{
-    height: auto;
-    width: 200px;
-    flex-direction: column;
-  }
-
-    .left, .right{
-      margin:  auto;
-      margin-bottom: 30px;
-    }
-
-    .capacity{
-      left: 120px;
-      top:100px;
-    }
-
-    footer{
-      margin-top: 50px;
-    }
-}
 
 
 @media all and (max-width:587px){
